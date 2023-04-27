@@ -5,3 +5,4 @@ seaborn==0.12.2
 protobuf==3.20.1
 pandas==1.5.0rc0
 pip==23.1.1
+linearmodels==4.30
