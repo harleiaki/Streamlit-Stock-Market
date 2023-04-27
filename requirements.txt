@@ -7,3 +7,4 @@ pandas==1.5.0rc0
 pip==23.1.1
 linearmodels==4.30
 numpy==1.24.3
+scikit-learn==1.2.2
